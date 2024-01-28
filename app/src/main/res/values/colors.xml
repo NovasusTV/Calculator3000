@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- frame colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__frame_ek2_color">#F6F7FA</color>
+	<color name="_bg__frame_23_ek1_color">#000000</color>
+	<color name="_0_color">#0F9DFF</color>
+	<color name="_bg__frame_20_ek1_color">#1991FF</color>
+	<color name="___color">#B2DAFF</color>
+	<color name="_bg__frame_24_ek1_color">#ADE1FF</color>
+	<color name="rectangle_9_color">#ffffff</color>
+	<color name="rectangle_8_color">#38B9FF</color>
+	<color name="_bg__frame_28_ek1_color">#FFFFFF</color>
+	<color name="ac_color">#848484</color>
+	<color name="__12_454_color">#424242</color>
+	<color name="_6000_2_3227_2_color">#808080</color>
+	<color name="_bg__frame_20_ek3_color">#18ACFF</color>
+</resources>

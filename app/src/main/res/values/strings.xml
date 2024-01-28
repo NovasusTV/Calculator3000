@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- frame strings -->
+
+	<string name="app_name">Calculator3000</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="_0_string">0</string>
+	<string name="___string">=</string>
+	<string name="___ek1_string">+</string>
+	<string name="_3_string">3</string>
+	<string name="_1_string">1</string>
+	<string name="_2_string">2</string>
+	<string name="___ek2_string">-</string>
+	<string name="_9_string">9</string>
+	<string name="_7_string">7</string>
+	<string name="_8_string">8</string>
+	<string name="_6_string">6</string>
+	<string name="_4_string">4</string>
+	<string name="_5_string">5</string>
+	<string name="ac_string">Ac</string>
+	<string name="__12_454_string">=12,454</string>
+	<string name="_6000_2_3227_2_string">6000/2+3227*2</string>
+	<string name="___ek5_string">=</string>
+</resources>
